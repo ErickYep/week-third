@@ -2,7 +2,7 @@ package day11;
 
 public class Task8 {
     public static void main(String[] args){
-
+        //whether this char vowel
     }
 
     static boolean isVowel(char a) {

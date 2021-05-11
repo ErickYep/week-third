@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Task11 {
     public static void main(String[] args) {
+        //counting sum of numbers which have eight
         magicSum();
     }
 

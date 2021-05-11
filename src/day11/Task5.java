@@ -2,6 +2,7 @@ package day11;
 
 public class Task5 {
     public static void main(String[] args) {
+        //whether this number is prime
         System.out.println(isPrime(17));
     }
     static boolean isPrime(int n){

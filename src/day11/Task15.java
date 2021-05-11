@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Task15 {
     public static void main(String[] args) {
+        //finding best grade and average of grades
         int[] array = grade();
         System.out.println("Average grade is :" + averageGrade(array));
         System.out.println("Max is :"+maxGrade(array));

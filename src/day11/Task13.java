@@ -4,6 +4,8 @@ import java.util.Random;
 
 public class Task13 {
     public static void main(String[] args) {
+        //function returns the array index if the array contains the given int
+        // or -1 otherwise
         Random rd = new Random();
         int [] array = new int[10];
         for (int i = 0; i <10 ; i++) {

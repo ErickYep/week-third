@@ -2,6 +2,7 @@ package day11;
 
 public class Task9 {
     public static void main(String[] args) {
+        //whether this number is palindrome
         System.out.println(isPolindrome(1661));
         System.out.println(isPolindrome(1662));
         System.out.println(isPolindrome(1234554321));

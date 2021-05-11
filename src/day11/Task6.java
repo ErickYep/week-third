@@ -2,6 +2,7 @@ package day11;
 
 public class Task6 {
     public static void main(String[] args) {
+        //return fibonacci's n th element
         System.out.println(fib(11));
     }
 

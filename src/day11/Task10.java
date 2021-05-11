@@ -2,6 +2,7 @@ package day11;
 
 public class Task10 {
     public static void main(String[] args) {
+        //whether this number has eight
         System.out.println(hasEight(18));
         System.out.println(hasEight(45679));
     }
