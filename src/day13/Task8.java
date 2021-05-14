@@ -2,7 +2,7 @@ package day13;
 
 public class Task8 {
     public static void main(String[] args) {
-
+// function to check if the passed String palindrome or not
     }
     static boolean isPalindrome(String string) {
         int count = 0;

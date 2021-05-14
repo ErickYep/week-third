@@ -2,6 +2,7 @@ package day13;
 
 public class Task10 {
     public static void main(String[] args) {
+        // function gets a hex string; and decides if the input string is a valid hex string
         System.out.println(checkHexStr("123aBc"));
         System.out.println(checkHexStr("123aBcx"));
     }

@@ -2,7 +2,7 @@ package day13;
 
 public class Task14 {
     public static void main(String[] args) {
-
+//function that counts occurrences of a certain character in a given string.
     }
     static int occurrences(String string, char ch){
         char[] chars = string.toCharArray();

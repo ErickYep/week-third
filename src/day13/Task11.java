@@ -2,6 +2,7 @@ package day13;
 
 public class Task11 {
     public static void main(String[] args) {
+        //function called bin2Dec to convert an input binary string into its equivalent decimal number
         System.out.println(bin2Dec("1011"));
     }
 

@@ -2,7 +2,7 @@ package day13;
 
 public class Task4 {
     public static void main(String[] args) {
-
+//        function which returns the count of vowels of a given String
     }
 
     static int vowelConstant(String string,int vowel) {

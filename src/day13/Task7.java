@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Task7 {
     public static void main(String[] args) {
+        //function called caesarCode to cipher Caesar's code
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter word");
         String string = scanner.nextLine();

@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class Task6 {
     public static void main(String[] args) {
+        //program called countVowelsDigits, which get as parameter  a String,
+        // counts the number of vowels (a, e, i, o, u, A, E, I, O, U) and digits (0-9)
+        // contained in the string, and prints the counts and the percentages (rounded to 2 decimal places)
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a String: ");
         String string = scanner.nextLine();

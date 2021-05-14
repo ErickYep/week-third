@@ -2,6 +2,7 @@ package day13;
 
 public class Task13 {
     public static void main(String[] args) {
+        //function that returns the first non-repeated character from a given string
         System.out.println(notRepeated("8794213.0dszfdgfchbxrtdfh"));
     }
     static char notRepeated(String string){

@@ -2,6 +2,7 @@ package day13;
 
 public class Task3 {
     public static void main(String[] args) {
+//        function which checks if the given String contains a given character
         System.out.println(checkChar("Enter name",'n'));
         System.out.println(checkChar("Enter name",'k'));
 

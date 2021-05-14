@@ -2,6 +2,7 @@ package day13;
 
 public class Task12 {
     public static void main(String[] args) {
+        //function that counts duplicate characters from a given string
         System.out.println(duplicChar("1122"));
     }
 
