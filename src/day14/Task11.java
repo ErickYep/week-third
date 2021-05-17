@@ -2,6 +2,7 @@ package day14;
 
 public class Task11 {
     public static void main(String[] args) {
+        //.Write a function to determine if a number is prime or not.
         System.out.println(primeOrNot(7, 2));
     }
 

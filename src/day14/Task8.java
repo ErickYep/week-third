@@ -2,6 +2,7 @@ package day14;
 
 public class Task8 {
     public static void main(String[] args) {
+        //Write recursive function that reverses the given String.
         System.out.println(reverse("Hello"));
     }
 

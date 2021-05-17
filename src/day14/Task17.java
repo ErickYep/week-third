@@ -2,6 +2,8 @@ package day14;
 
 public class Task17 {
     public static void main(String[] args) {
+//        tring containing only small English letters.
+//        iForm a new line by "cutting" identical letters located at symmetrical places
         System.out.println(cutSymmetricChars("aEbrciccbka"));
     }
 

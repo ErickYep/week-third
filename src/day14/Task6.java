@@ -2,6 +2,7 @@ package day14;
 
 public class Task6 {
     public static void main(String[] args) {
+        //compute recursively (no loops) the number of lowercase 'x' chars in the string.
         System.out.println(countX("xxhixx",5));
     }
 

@@ -2,6 +2,8 @@ package day14;
 
 public class Task9 {
     public static void main(String[] args) {
+        //, compute recursively a new string where all
+        // the lowercase 'x' chars have been moved to the end of the string.
         System.out.println(moveX("xxre"));
     }
 

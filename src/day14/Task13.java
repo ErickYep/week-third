@@ -2,6 +2,8 @@ package day14;
 
 public class Task13 {
     public static void main(String[] args) {
+        //You are given a string containing numbers and English letters (uppercase and lowercase).
+        // Find and display the number of digits.
         System.out.println(countDigit("6574aw3d435e4g64sef"));
     }
 

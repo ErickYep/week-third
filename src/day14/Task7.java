@@ -2,6 +2,8 @@ package day14;
 
 public class Task7 {
     public static void main(String[] args) {
+        // compute recursively a new string where all the 'x' chars
+        //have been removed.
         System.out.println(removeX("xxre",0));
     }
     static String removeX(String str,int length){

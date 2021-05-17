@@ -2,6 +2,8 @@ package day14;
 
 public class Task12 {
     public static void main(String[] args) {
+        //Given a string containing only decimal digits.
+        // Find and display the largest digit.
         System.out.println(maxDigit("196548735"));
     }
 

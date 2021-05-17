@@ -2,6 +2,8 @@ package day14;
 
 public class Task1 {
     public static void main(String[] args) {
+        //Write a recursive function
+        //to find the sum of a given array.
         int [] a = {1,2,3,4,5};
         System.out.println(arraySum(a, 4));
         System.out.println(factorial(5));

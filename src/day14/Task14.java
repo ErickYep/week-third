@@ -2,6 +2,9 @@ package day14;
 
 public class Task14 {
     public static void main(String[] args) {
+        //Given a string containing only English letters (uppercase and lowercase).
+        // Add the ‘*’ (asterisk) character between letters
+        // (you don’t need to add ‘*’ before the first letter and after the last).
         System.out.println(asterisk("abcdefghijkl"));
     }
 

@@ -2,6 +2,8 @@ package day14;
 
 public class Task15 {
     public static void main(String[] args) {
+        // Add opening and closing parentheses according to the following pattern:
+        // "example" -> "(e (x (a (m) p) l) e)"
         System.out.println(bracket("abcdeedcba"));
     }
 

@@ -2,6 +2,7 @@ package day14;
 
 public class Task2 {
     public static void main(String[] args) {
+        //Write a fib(int) function which returns n-th fibonacci number.
         System.out.println(fibonacci(20));
     }
     static int fibonacci(int n) {

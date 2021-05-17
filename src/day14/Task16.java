@@ -2,6 +2,7 @@ package day14;
 
 public class Task16 {
     public static void main(String[] args) {
+        //Form a new line by adding a "mirrored" line with closing brackets to the right.
         System.out.println(mirrorString("(a(b(c(d"));
     }
 

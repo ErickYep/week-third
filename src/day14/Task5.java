@@ -2,6 +2,7 @@ package day14;
 
 public class Task5 {
     public static void main(String[] args) {
+        //.Given a non-negative int n, return the count of the occurrences of 7 as a digit
         System.out.println(sevenCount(717));
     }
 

@@ -2,6 +2,8 @@ package day14;
 
 public class Task10 {
     public static void main(String[] args) {
+        //Given a string, return recursively a "cleaned" string where adjacent
+        //chars that are the same have been reduced to a single char
         System.out.println(cleanString("yyzzzzaa"));
     }
     static String cleanString(String str){
